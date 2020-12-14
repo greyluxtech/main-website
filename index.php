@@ -499,8 +499,7 @@ include 'layout/header.php';
 	<div id="team" class="container pb-4">
 		<div class="row pt-5 mt-5 mb-4">
 			<div class="col text-center appear-animation" data-appear-animation="fadeInUpShorter">
-				<h2 class="font-weight-bold mb-1">Team</h2>
-				<p>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT</p>
+				<h2 class="font-weight-bold mb-1">About GreyLux</h2>
 			</div>
 		</div>
 		<div class="row pb-5 mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
@@ -508,36 +507,37 @@ include 'layout/header.php';
 				<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
 					<span class="thumb-info-wrapper">
 						<a href="about-me.html">
-							<img src="img/team/team-1.jpg" class="img-fluid" alt="">
+							<img src="img/logos/logo.png" class="img-fluid" alt="">
 						</a>
-					</span>
-					<span class="thumb-info-caption">
-						<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">John
-							Doe</h3>
-						<span class="text-2 mb-0">CEO</span>
-						<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur
-							adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
-						<span class="thumb-info-social-icons">
-							<a target="_blank" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
-							<a href="https://www.twitter.com/"><i class="fab fa-twitter"></i><span>Twitter</span></a>
-							<a href="http://www.linkedin.com/"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
-						</span>
 					</span>
 				</span>
 			</div>
-			<div class="col-sm-6 col-lg-3 mb-4 mb-lg-0">
+			<div class="col-sm-6 col-lg-9 mb-4 mb-lg-0">
 				<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
-					<span class="thumb-info-wrapper">
+					<!-- <span class="thumb-info-wrapper">
 						<a href="about-me.html">
 							<img src="img/team/team-2.jpg" class="img-fluid" alt="">
 						</a>
-					</span>
+					</span> -->
 					<span class="thumb-info-caption">
+						<span class="pt-1">Greylux LTD alias GREYLUX ASSETS LTD is a
+							registered company under the 1870 act of
+							business registration CAC . it is made up of vast
+							professionals under various fields such as
+							Computer Science, Software Engineering,
+							Business Administration, Finance and Accounting,
+							Estate Management, Product designs and Building
+							Construction. Our team is dedicated to proffer
+							optimum solution to financial freedom, business
+							growth for both SMEs and large company's</span>
 						<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">
-							Jessica Doe</h3>
-						<span class="text-2 mb-0">DESIGNER</span>
-						<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur
-							adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
+							Our Vision</h3>
+						<p>To be a frontline leading company in
+							innovation & technology and to be
+							recognized as an integral part of success
+							stories, successful businesses and
+							process automation in Africa & the world
+							at large.</p>
 						<span class="thumb-info-social-icons">
 							<a target="_blank" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
 							<a href="https://www.twitter.com/"><i class="fab fa-twitter"></i><span>Twitter</span></a>
@@ -546,7 +546,7 @@ include 'layout/header.php';
 					</span>
 				</span>
 			</div>
-			<div class="col-sm-6 col-lg-3 mb-4 mb-sm-0">
+			<!-- <div class="col-sm-6 col-lg-3 mb-4 mb-sm-0">
 				<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
 					<span class="thumb-info-wrapper">
 						<a href="about-me.html">
@@ -587,7 +587,7 @@ include 'layout/header.php';
 						</span>
 					</span>
 				</span>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<section id="contact" class="section bg-color-grey-scale-1 border-0 py-0 m-0">
