@@ -6,18 +6,6 @@ include 'layout/header.php';
 		<div class="owl-carousel dots-inside dots-horizontal-center show-dots-hover mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 1}, '979': {'items': 1}, '1199': {'items': 1}}, 'loop': false, 'autoHeight': false, 'margin': 0, 'dots': true, 'dotsVerticalOffset': '-75px', 'nav': false, 'animateIn': 'fadeIn', 'animateOut': 'fadeOut', 'mouseDrag': false, 'touchDrag': false, 'pullDrag': false, 'autoplay': true, 'autoplayTimeout': 9000, 'autoplayHoverPause': true, 'rewind': true}">
 
 			<div class="position-relative overlay overlay-show overlay-op-8 pt-5" style="background: url(img/invest.jpg); background-position: center; background-size: cover; height: 100vh;">
-				<!-- <div class="position-absolute top-0 left-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInRightDownShorter" data-appear-animation-delay="500" alt="">
-				</div>
-				<div class="position-absolute top-0 right-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInLeftDownShorter" data-appear-animation-delay="500" alt="">
-				</div>
-				<div class="position-absolute bottom-0 left-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInRightUpShorter" data-appear-animation-delay="500" alt="">
-				</div>
-				<div class="position-absolute bottom-0 right-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInLeftUpShorter" data-appear-animation-delay="500" alt="">
-				</div> -->
 				<div class="container position-relative z-index-3 h-100">
 					<Div class="row justify-content-center align-items-center h-100">
 						<div class="col-lg-6">
@@ -90,31 +78,6 @@ include 'layout/header.php';
 					</Div>
 				</div>
 			</div>
-
-			<!-- <div class="position-relative video overlay overlay-show overlay-op-8 pt-5" data-video-path="video/memory-of-a-woman" data-plugin-video-background data-plugin-options="{'posterType': 'jpg', 'position': '50% 50%'}" style="height: 100vh;">
-				<div class="container position-relative z-index-3 h-100">
-					<Div class="row justify-content-center align-items-center h-100">
-						<div class="col-lg-6">
-							<div class="d-flex flex-column align-items-center">
-								<h3 class="position-relative text-color-light text-5 line-height-5 font-weight-medium px-4 mb-2 appear-animation" data-appear-animation="fadeInDownShorterPlus" data-plugin-options="{'minWindowWidth': 0}">
-									<span class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-3">
-										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
-									</span>
-									WE WORK HARD AND PORTO HAS
-									<span class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-3">
-										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
-									</span>
-								</h3>
-								<h2 class="text-color-light font-weight-extra-bold text-12 mb-3 appear-animation" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">THE BEST DESIGN</h2>
-								<p class="text-4 text-color-light font-weight-light opacity-7 text-center mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 25}">
-									Trusted by over <strong class="text-color-light">40,000</strong> satisfied
-									users, Porto is a huge success in the one of largest world's
-									MarketPlace<strong class="bg-light">Oi oi oi</strong></p>
-							</div>
-						</div>
-					</Div>
-				</div>
-			</div> -->
 		</div>
 	</div>
 	<section id="services" class="section section-height-3 bg-primary border-0 m-0 appear-animation" data-appear-animation="fadeIn">
@@ -195,20 +158,6 @@ include 'layout/header.php';
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col-lg-4 appear-animation" data-appear-animation="fadeInRightShorter"
-							data-appear-animation-delay="300">
-							<div class="feature-box feature-box-style-2">
-								<div class="feature-box-icon">
-									<i class="icons icon-screen-desktop text-color-light"></i>
-								</div>
-								<div class="feature-box-info">
-									<h4 class="font-weight-bold text-color-light text-4 mb-2">LIGHTBOX</h4>
-									<p class="text-color-light opacity-7">Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis
-										nulla.</p>
-								</div>
-							</div>
-						</div> -->
 			</div>
 		</div>
 	</section>
@@ -219,9 +168,6 @@ include 'layout/header.php';
 					<h2 class="font-weight-bold mb-2">Projects</h2>
 					<p class="mb-4">We have done a lot of different projects for happy clients.</p>
 				</div>
-				<!-- <p class="pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-					Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt
-					mauris lacus sed leo. vamus suscipit molestie vestibulum.</p> -->
 			</div>
 		</div>
 		<div class="row pb-5 mb-5">
@@ -357,70 +303,6 @@ include 'layout/header.php';
 								</span>
 							</a>
 						</div>
-						<!-- <div class="portfolio-item">
-							<a href="#" data-ajax-on-modal>
-								<span class="thumb-info thumb-info-lighten">
-									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-23.jpg" class="img-fluid border-radius-0" alt="">
-										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Business Folders</span>
-											<span class="thumb-info-type">Logo</span>
-										</span>
-										<span class="thumb-info-action">
-											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
-										</span>
-									</span>
-								</span>
-							</a>
-						</div>
-						<div class="portfolio-item">
-							<a href="#" data-ajax-on-modal>
-								<span class="thumb-info thumb-info-lighten">
-									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-24.jpg" class="img-fluid border-radius-0" alt="">
-										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Tablet Screen</span>
-											<span class="thumb-info-type">Website</span>
-										</span>
-										<span class="thumb-info-action">
-											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
-										</span>
-									</span>
-								</span>
-							</a>
-						</div>
-						<div class="portfolio-item">
-							<a href="#" data-ajax-on-modal>
-								<span class="thumb-info thumb-info-lighten">
-									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-25.jpg" class="img-fluid border-radius-0" alt="">
-										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Black Watch</span>
-											<span class="thumb-info-type">Media</span>
-										</span>
-										<span class="thumb-info-action">
-											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
-										</span>
-									</span>
-								</span>
-							</a>
-						</div>
-						<div class="portfolio-item">
-							<a href="#" data-ajax-on-modal>
-								<span class="thumb-info thumb-info-lighten">
-									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-26.jpg" class="img-fluid border-radius-0" alt="">
-										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Monitor Mockup</span>
-											<span class="thumb-info-type">Website</span>
-										</span>
-										<span class="thumb-info-action">
-											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
-										</span>
-									</span>
-								</span>
-							</a>
-						</div> -->
 					</div>
 				</div>
 			</div>
@@ -515,11 +397,6 @@ include 'layout/header.php';
 			</div>
 			<div class="col-sm-6 col-lg-9 mb-4 mb-lg-0">
 				<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
-					<!-- <span class="thumb-info-wrapper">
-						<a href="about-me.html">
-							<img src="img/team/team-2.jpg" class="img-fluid" alt="">
-						</a>
-					</span> -->
 					<span class="thumb-info-caption">
 						<span class="pt-1">Greylux LTD alias GREYLUX ASSETS LTD is a
 							registered company under the 1870 act of
@@ -547,48 +424,6 @@ include 'layout/header.php';
 					</span>
 				</span>
 			</div>
-			<!-- <div class="col-sm-6 col-lg-3 mb-4 mb-sm-0">
-				<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
-					<span class="thumb-info-wrapper">
-						<a href="about-me.html">
-							<img src="img/team/team-3.jpg" class="img-fluid" alt="">
-						</a>
-					</span>
-					<span class="thumb-info-caption">
-						<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">Ricki
-							Doe</h3>
-						<span class="text-2 mb-0">DEVELOPER</span>
-						<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur
-							adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
-						<span class="thumb-info-social-icons">
-							<a target="_blank" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
-							<a href="https://www.twitter.com/"><i class="fab fa-twitter"></i><span>Twitter</span></a>
-							<a href="http://www.linkedin.com/"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
-						</span>
-					</span>
-				</span>
-			</div>
-			<div class="col-sm-6 col-lg-3">
-				<span class="thumb-info thumb-info-hide-wrapper-bg thumb-info-no-zoom">
-					<span class="thumb-info-wrapper">
-						<a href="about-me.html">
-							<img src="img/team/team-4.jpg" class="img-fluid" alt="">
-						</a>
-					</span>
-					<span class="thumb-info-caption">
-						<h3 class="font-weight-extra-bold text-color-dark text-4 line-height-1 mt-3 mb-0">
-							Melinda Doe</h3>
-						<span class="text-2 mb-0">SEO ANALYST</span>
-						<span class="thumb-info-caption-text pt-1">Lorem ipsum dolor sit amet, consectetur
-							adipiscing elit. Cras ac ligula mi, non suscipitaccumsan</span>
-						<span class="thumb-info-social-icons">
-							<a target="_blank" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i><span>Facebook</span></a>
-							<a href="https://www.twitter.com/"><i class="fab fa-twitter"></i><span>Twitter</span></a>
-							<a href="http://www.linkedin.com/"><i class="fab fa-linkedin-in"></i><span>Linkedin</span></a>
-						</span>
-					</span>
-				</span>
-			</div> -->
 		</div>
 	</div>
 	<section id="contact" class="section bg-color-grey-scale-1 border-0 py-0 m-0">
