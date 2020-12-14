@@ -329,7 +329,7 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-6.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/portfolio (8).png" class="img-fluid border-radius-0" alt="">
+										<img src="img/mobile (2).jpg" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Mobile Mockup</span>
 											<span class="thumb-info-type">Software</span>
@@ -345,7 +345,7 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-7.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/portfolio (9).png" class="img-fluid border-radius-0" alt="">
+										<img src="img/mobile (1).jpg" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Mobile Mockup</span>
 											<span class="thumb-info-type">Software</span>
