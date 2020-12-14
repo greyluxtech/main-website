@@ -227,15 +227,15 @@ include 'layout/header.php';
 		<div class="row pb-5 mb-5">
 			<div class="col">
 				<div class="appear-animation popup-gallery-ajax" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">
-					<div class="owl-carousel owl-theme mb-0" data-plugin-options="{'items': 4, 'margin': 35, 'loop': false}">
+					<div class="owl-carousel owl-theme mb-0" data-plugin-options="{'items': 4, 'margin': 35, 'loop': true, 'autoplay': true, 'autoplayTimeout': 3000}">
 						<div class="portfolio-item">
 							<a href="ajax/portfolio-ajax-project.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/projects/project.jpg" class="img-fluid border-radius-0" alt="">
+										<img src="img/portfolio (6).jpg" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Presentation</span>
-											<span class="thumb-info-type">Brand</span>
+											<span class="thumb-info-inner">Portfolio</span>
+											<span class="thumb-info-type">Software</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -248,10 +248,10 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-1.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<span class="owl-carousel owl-theme dots-inside m-0" data-plugin-options="{'items': 1, 'margin': 20, 'animateOut': 'fadeOut', 'autoplay': true, 'autoplayTimeout': 3000}"><span><img src="img/projects/project-1.jpg" class="img-fluid border-radius-0" alt=""></span><span><img src="img/projects/project-1-2.jpg" class="img-fluid border-radius-0" alt=""></span></span>
+										<img src="img/portfolio (8).jpg" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Porto Watch</span>
-											<span class="thumb-info-type">Media</span>
+											<span class="thumb-info-inner">Aethestic</span>
+											<span class="thumb-info-type">Software</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -264,10 +264,10 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-2.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-2.jpg" class="img-fluid border-radius-0" alt="">
+										<img src="img/quill.png" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Identity</span>
-											<span class="thumb-info-type">Logo</span>
+											<span class="thumb-info-type">Software</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -280,10 +280,11 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-3.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-27.jpg" class="img-fluid border-radius-0" alt="">
+										<img src="img/real (1).jpg" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Porto Screens</span>
-											<span class="thumb-info-type">Website</span>
+											<span class="thumb-info-inner">Interior Decor</span>
+											<span class="thumb-info-type">Real Estate
+											</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -296,10 +297,10 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-4.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-4.jpg" class="img-fluid border-radius-0" alt="">
+										<img src="img/real (2).jpg" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Three Bottles</span>
-											<span class="thumb-info-type">Logo</span>
+											<span class="thumb-info-inner">Exterior Decor</span>
+											<span class="thumb-info-type">Real Estate</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -312,10 +313,10 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-5.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-5.jpg" class="img-fluid border-radius-0" alt="">
+										<img src="img/real (3).jpg" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Company T-Shirt</span>
-											<span class="thumb-info-type">Brand</span>
+											<span class="thumb-info-inner">The Building</span>
+											<span class="thumb-info-type">Real Estate</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -328,10 +329,10 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-6.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-6.jpg" class="img-fluid border-radius-0" alt="">
+										<img src="img/portfolio (8).png" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Mobile Mockup</span>
-											<span class="thumb-info-type">Website</span>
+											<span class="thumb-info-type">Software</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -344,10 +345,10 @@ include 'layout/header.php';
 							<a href="ajax/portfolio-ajax-project-7.html" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
-										<img src="img/projects/project-7.jpg" class="img-fluid border-radius-0" alt="">
+										<img src="img/portfolio (9).png" class="img-fluid border-radius-0" alt="">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Porto Label</span>
-											<span class="thumb-info-type">Media</span>
+											<span class="thumb-info-inner">Mobile Mockup</span>
+											<span class="thumb-info-type">Software</span>
 										</span>
 										<span class="thumb-info-action">
 											<span class="thumb-info-action-icon bg-dark opacity-8"><i class="fas fa-plus"></i></span>
@@ -356,7 +357,7 @@ include 'layout/header.php';
 								</span>
 							</a>
 						</div>
-						<div class="portfolio-item">
+						<!-- <div class="portfolio-item">
 							<a href="#" data-ajax-on-modal>
 								<span class="thumb-info thumb-info-lighten">
 									<span class="thumb-info-wrapper">
@@ -419,7 +420,7 @@ include 'layout/header.php';
 									</span>
 								</span>
 							</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
