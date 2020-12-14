@@ -219,9 +219,9 @@ include 'layout/header.php';
 					<h2 class="font-weight-bold mb-2">Projects</h2>
 					<p class="mb-4">We have done a lot of different projects for happy clients.</p>
 				</div>
-				<p class="pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+				<!-- <p class="pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt
-					mauris lacus sed leo. vamus suscipit molestie vestibulum.</p>
+					mauris lacus sed leo. vamus suscipit molestie vestibulum.</p> -->
 			</div>
 		</div>
 		<div class="row pb-5 mb-5">
