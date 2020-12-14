@@ -98,7 +98,7 @@
 												</li>
 												<li>
 													<a class="dropdown-item" data-hash data-hash-offset="68"
-														href="#team">Meet the Team</a>
+														href="#team">About Us</a>
 												</li>
 												<li>
 													<a class="dropdown-item" data-hash data-hash-offset="68"

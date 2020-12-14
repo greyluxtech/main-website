@@ -3,21 +3,21 @@ include 'layout/header.php';
 ?>
 <div role="main" class="main" id="home">
 	<div class="owl-carousel-wrapper" style="height: 100vh;">
-		<div class="owl-carousel dots-inside dots-horizontal-center show-dots-hover nav-inside nav-inside-plus nav-dark nav-md nav-font-size-md show-nav-hover mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 1}, '979': {'items': 1}, '1199': {'items': 1}}, 'loop': false, 'autoHeight': false, 'margin': 0, 'dots': true, 'dotsVerticalOffset': '-75px', 'nav': true, 'animateIn': 'fadeIn', 'animateOut': 'fadeOut', 'mouseDrag': false, 'touchDrag': false, 'pullDrag': false, 'autoplay': true, 'autoplayTimeout': 9000, 'autoplayHoverPause': true, 'rewind': true}">
+		<div class="owl-carousel dots-inside dots-horizontal-center show-dots-hover mb-0" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 1}, '979': {'items': 1}, '1199': {'items': 1}}, 'loop': false, 'autoHeight': false, 'margin': 0, 'dots': true, 'dotsVerticalOffset': '-75px', 'nav': false, 'animateIn': 'fadeIn', 'animateOut': 'fadeOut', 'mouseDrag': false, 'touchDrag': false, 'pullDrag': false, 'autoplay': true, 'autoplayTimeout': 9000, 'autoplayHoverPause': true, 'rewind': true}">
 
-			<div class="position-relative pt-5" style="background-color: #35383d; height: 100vh;">
-				<div class="position-absolute top-0 left-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/slides/slide-one-page-1-2.jpg" class="w-100 appear-animation" data-appear-animation="fadeInRightDownShorter" data-appear-animation-delay="500" alt="">
+			<div class="position-relative overlay overlay-show overlay-op-8 pt-5" style="background: url(img/invest.jpg); background-position: center; background-size: cover; height: 100vh;">
+				<!-- <div class="position-absolute top-0 left-0 w-50pct w-lg-auto z-index-2">
+					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInRightDownShorter" data-appear-animation-delay="500" alt="">
 				</div>
 				<div class="position-absolute top-0 right-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/slides/slide-one-page-1-3.jpg" class="w-100 appear-animation" data-appear-animation="fadeInLeftDownShorter" data-appear-animation-delay="500" alt="">
+					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInLeftDownShorter" data-appear-animation-delay="500" alt="">
 				</div>
 				<div class="position-absolute bottom-0 left-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/slides/slide-one-page-1-4.jpg" class="w-100 appear-animation" data-appear-animation="fadeInRightUpShorter" data-appear-animation-delay="500" alt="">
+					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInRightUpShorter" data-appear-animation-delay="500" alt="">
 				</div>
 				<div class="position-absolute bottom-0 right-0 w-50pct w-lg-auto z-index-2">
-					<img src="img/slides/slide-one-page-1-5.jpg" class="w-100 appear-animation" data-appear-animation="fadeInLeftUpShorter" data-appear-animation-delay="500" alt="">
-				</div>
+					<img src="img/invest.jpg" class="w-100 appear-animation" data-appear-animation="fadeInLeftUpShorter" data-appear-animation-delay="500" alt="">
+				</div> -->
 				<div class="container position-relative z-index-3 h-100">
 					<Div class="row justify-content-center align-items-center h-100">
 						<div class="col-lg-6">
@@ -26,17 +26,17 @@ include 'layout/header.php';
 									<span class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-3">
 										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
 									</span>
-									WE WORK HARD AND PORTO HAS
+									WE WORK HARD AND GREYLUX HAS
 									<span class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-3">
 										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
 									</span>
 								</h3>
-								<h2 class="text-color-light font-weight-extra-bold text-12 mb-4 appear-animation" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">
-									THE <span class="position-relative">BEST<span class="position-absolute left-50pct transform3dx-n50 bottom-0"><img src="img/slides/slide-blue-line-big.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1000" data-plugin-options="{'minWindowWidth': 0}" alt="" /></span></span> DESIGN
+								<h2 class="text-color-light text-center font-weight-extra-bold text-12 mb-4 appear-animation" style="line-height: 60px;" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">
+									THE <span class="position-relative">BEST<span class="position-absolute left-50pct transform3dx-n50 bottom-0"><img src="img/slides/slide-blue-line-big.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1000" data-plugin-options="{'minWindowWidth': 0}" alt="" /></span></span> INVESTMENT SCHEME
 								</h2>
 								<p class="text-4 text-color-light font-weight-light opacity-7 text-center mt-2 mb-4" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 25}">
-									Trusted by over <strong class="text-color-light">40,000</strong> satisfied
-									users, Porto is a huge success in the one of larest world's MarketPlace</p>
+									Trusted by over <strong class="text-color-light">1,000</strong> satisfied
+									users.</p>
 								<a href="#" class="btn btn-primary btn-rounded font-weight-bold text-3 px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600">GET STARTED NOW!</a>
 							</div>
 						</div>
@@ -53,15 +53,14 @@ include 'layout/header.php';
 									<span class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-3">
 										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
 									</span>
-									WE WORK HARD AND PORTO HAS
+									WE WORK HARD AND GREYLUX HAS
 									<span class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-3">
 										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
 									</span>
 								</h3>
-								<h2 class="text-color-light font-weight-extra-bold text-12 mb-3 appear-animation" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">THE BEST DESIGN</h2>
+								<h2 class="text-color-light font-weight-extra-bold text-12 mb-3 appear-animation" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">THE BEST tEAM</h2>
 								<p class="text-4 text-color-light font-weight-light opacity-7 text-center mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 25}">
-									Trusted by over <strong class="text-color-light">40,000</strong> satisfied
-									users, Porto is a huge success in the one of larest world's MarketPlace</p>
+									We have the best team to <strong class="text-color-light">offer</strong> the best services and customer support.</p>
 							</div>
 						</div>
 					</Div>
@@ -77,22 +76,22 @@ include 'layout/header.php';
 									<span class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-3">
 										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
 									</span>
-									WE CREATE DESIGNS, WE ARE
+									WE CREATE SOFTWARES, WE ARE
 									<span class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-3">
 										<img src="img/slides/slide-title-border.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
 									</span>
 								</h3>
 								<h2 class="porto-big-title text-color-light font-weight-extra-bold mb-3" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 250, 'animationName': 'fadeInRightShorterOpacity', 'letterClass': 'd-inline-block'}">
-									PORTO</h2>
+									GREYLUX</h2>
 								<p class="text-4 text-color-light font-weight-light text-center mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 2000, 'minWindowWidth': 0}">The best
-									choice for your new website</p>
+									choice for your new software</p>
 							</div>
 						</div>
 					</Div>
 				</div>
 			</div>
 
-			<div class="position-relative video overlay overlay-show overlay-op-8 pt-5" data-video-path="video/memory-of-a-woman" data-plugin-video-background data-plugin-options="{'posterType': 'jpg', 'position': '50% 50%'}" style="height: 100vh;">
+			<!-- <div class="position-relative video overlay overlay-show overlay-op-8 pt-5" data-video-path="video/memory-of-a-woman" data-plugin-video-background data-plugin-options="{'posterType': 'jpg', 'position': '50% 50%'}" style="height: 100vh;">
 				<div class="container position-relative z-index-3 h-100">
 					<Div class="row justify-content-center align-items-center h-100">
 						<div class="col-lg-6">
@@ -115,7 +114,7 @@ include 'layout/header.php';
 						</div>
 					</Div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<section id="services" class="section section-height-3 bg-primary border-0 m-0 appear-animation" data-appear-animation="fadeIn">
@@ -218,7 +217,7 @@ include 'layout/header.php';
 			<div class="col-lg-9 text-center">
 				<div class="appear-animation" data-appear-animation="fadeInUpShorter">
 					<h2 class="font-weight-bold mb-2">Projects</h2>
-					<p class="mb-4">LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT</p>
+					<p class="mb-4">We have done a lot of different projects for happy clients.</p>
 				</div>
 				<p class="pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 					Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt
