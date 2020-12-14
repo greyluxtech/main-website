@@ -170,7 +170,6 @@ Abuja, Nigeria<br>MON - FRI: 10:00am - 6:00pm
 		mapRef.setMapTypeId('map_style');
 
 	</script>
-	<a href="index-2.html#demos" class="go-to-demos"><i class="fas fa-arrow-left"></i> More Demos</a>
 </body>
 
 </html>
