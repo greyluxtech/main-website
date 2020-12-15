@@ -28,6 +28,8 @@
 	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
 
 	<link rel="stylesheet" href="css/theme.css">
+	<link rel="stylesheet" href="css/main.css">
+
 	<link rel="stylesheet" href="css/theme-elements.css">
 	<link rel="stylesheet" href="css/theme-blog.css">
 	<link rel="stylesheet" href="css/theme-shop.css">
@@ -37,6 +39,8 @@
 	<link rel="stylesheet" href="css/custom.css">
 
 	<script src="vendor/modernizr/modernizr.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="js/main.js"></script>
 </head>
 
 <body class="one-page loading-overlay-showing" data-target="#header" data-spy="scroll" data-offset="100"

@@ -105,7 +105,7 @@ Abuja, Nigeria<br>MON - FRI: 10:00am - 6:00pm
 		ga('create', 'UA-42715764-5', 'auto');
 		ga('send', 'pageview');
 	</script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhpYHdYRY2U6V_VfyyNtkPHhywLjDkhfg"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAo8OvgRYpgZfqovgbnfLSphkjgRe78gS4"></script>
 	<script>
 
 		/*
