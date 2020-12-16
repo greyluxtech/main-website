@@ -441,7 +441,7 @@ include 'layout/header.php';
       <div class="item">
         <div class="card card-shadow border-0 mb-4">
           <div class="card-body">
-            <h6 class="font-weight-light mb-3">“Customer testimony um sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras venene veliel ”</h6>
+            <h6 class="font-weight-light mb-3">“Top notch delivery with amazing customer service ”</h6>
             <div class="d-block d-md-flex align-items-center">
               <span class="thumb-img"><img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/testimonial/1.jpg" alt="wrapkit" class="rounded-circle"/></span>
               <div class="ml-3">
@@ -463,7 +463,7 @@ include 'layout/header.php';
       <div class="item">
         <div class="card card-shadow border-0 mb-4">
           <div class="card-body">
-            <h6 class="font-weight-light mb-3">“Customer testimony um sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras venene veliel ”</h6>
+            <h6 class="font-weight-light mb-3">“Love the design, makes it easy to navigate the site .”</h6>
             <div class="d-block d-md-flex align-items-center">
               <span class="thumb-img"><img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/testimonial/2.jpg" alt="wrapkit" class="rounded-circle"/></span>
               <div class="ml-3">
@@ -484,11 +484,13 @@ include 'layout/header.php';
 	  <div class="item">
         <div class="card card-shadow border-0 mb-4">
           <div class="card-body">
-            <h6 class="font-weight-light mb-3">“Customer testimony um sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras venene veliel ”</h6>
+            <h6 class="font-weight-light mb-3">“Got value for my money ,<br>
+			 GreyLux Assests deliver.
+			”</h6>
             <div class="d-block d-md-flex align-items-center">
               <span class="thumb-img"><img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/testimonial/1.jpg" alt="wrapkit" class="rounded-circle"/></span>
               <div class="ml-3">
-                <h6 class="mb-0 customer">Michelle Anderson</h6>
+                <h6 class="mb-0 customer">Michelle Anderso</h6>
                 <div class="font-10">
                   <a href="" class="text-success"><i class="icon-star"></i></a>
                   <a href="" class="text-success"><i class="icon-star"></i></a>
@@ -505,7 +507,7 @@ include 'layout/header.php';
       <div class="item">
         <div class="card card-shadow border-0 mb-4">
           <div class="card-body">
-            <h6 class="font-weight-light mb-3">“Customer testimony um sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras venene veliel ”</h6>
+            <h6 class="font-weight-light mb-3">“Professional service delivery with seamless implementation .”</h6>
             <div class="d-block d-md-flex align-items-center">
               <span class="thumb-img"><img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/testimonial/3.jpg" alt="wrapkit" class="rounded-circle"/></span>
               <div class="ml-3">
@@ -524,26 +526,7 @@ include 'layout/header.php';
       </div>
       <!-- item -->
       <!-- item -->
-      <div class="item">
-        <div class="card card-shadow border-0 mb-4">
-          <div class="card-body">
-            <h6 class="font-weight-light mb-3">“Customer testimony Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras venene veliel vestibulum.”</h6>
-            <div class="d-flex no-block align-items-center">
-              <span class="thumb-img"><img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/testimonial/1.jpg" alt="wrapkit" class="rounded-circle"/></span>
-              <div class="ml-3">
-                <h6 class="mb-0 customer">Michelle Anderson</h6>
-                <div class="font-10">
-                  <a href="" class="text-success"><i class="icon-star"></i></a>
-                  <a href="" class="text-success"><i class="icon-star"></i></a>
-                  <a href="" class="text-success"><i class="icon-star"></i></a>
-                  <a href="" class="text-success"><i class="icon-star"></i></a>
-                  <a href="" class="text-muted"><i class="icon-star"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+     
       <!-- item -->
     </div>
   </div>
